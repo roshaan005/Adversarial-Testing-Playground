@@ -23,8 +23,12 @@ The Adversarial Testing Playground is designed to help researchers, developers, 
 - **Real-time Results**: Instant comparison of original vs. adversarial predictions
 - **Interactive UI**: Modern, responsive interface with real-time parameter adjustment
 - **Parameter Control**: Adjust epsilon (perturbation strength), learning rate, and iterations
-<img width="777" height="638" alt="Screenshot 2025-08-20 at 3 05 39 PM" src="https://github.com/user-attachments/assets/7fac1190-e7fc-4c88-aed7-03a0e0398be7" />
-<img width="736" height="650" alt="Screenshot 2025-08-20 at 3 06 47 PM" src="https://github.com/user-attachments/assets/15859d1d-ffb6-461b-a5d4-7318e561ed7e" />
+   <img width="710" height="609" alt="Screenshot 2025-08-20 at 3 08 23 PM" src="https://github.com/user-attachments/assets/ff851ee8-1acc-4f45-8b4c-63ed1291f103" />
+  <img width="703" height="616" alt="Screenshot 2025-08-20 at 3 09 09 PM" src="https://github.com/user-attachments/assets/d239bcdf-cea6-4d2d-b28b-b265c58e3aaa" />
+<img width="716" height="700" alt="Screenshot 2025-08-20 at 3 10 01 PM" src="https://github.com/user-attachments/assets/51b2dfb6-17fe-420e-90cd-a53130459639" />
+<img width="717" height="699" alt="Screenshot 2025-08-20 at 3 10 26 PM" src="https://github.com/user-attachments/assets/545d0a42-f2c3-4be4-951f-3f89d1ec1a9e" />
+
+
 
 ## Prerequisites
 
