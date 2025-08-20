@@ -2,7 +2,7 @@
 
 A comprehensive web-based playground for testing and analyzing adversarial attacks on machine learning models. This project demonstrates how deep learning models can be fooled by carefully crafted perturbations and provides an interactive interface for researchers and developers to experiment with different attack strategies.
 
-## 🎯 What This Project Does
+##  What This Project Does
 
 The Adversarial Testing Playground is designed to help researchers, developers, and students understand how vulnerable machine learning models are to adversarial attacks. It provides:
 
@@ -12,7 +12,7 @@ The Adversarial Testing Playground is designed to help researchers, developers, 
 - **Visual Comparison**: Side-by-side comparison of original vs. adversarial images with confidence scores
 - **Educational Tool**: Learn about adversarial machine learning through hands-on experimentation
 
-## 🚀 Current Features
+##  Current Features
 
 - **Multiple Attack Methods**: 
   - **FGSM (Fast Gradient Sign Method)**: Single-step attack for quick testing
@@ -23,6 +23,8 @@ The Adversarial Testing Playground is designed to help researchers, developers, 
 - **Real-time Results**: Instant comparison of original vs. adversarial predictions
 - **Interactive UI**: Modern, responsive interface with real-time parameter adjustment
 - **Parameter Control**: Adjust epsilon (perturbation strength), learning rate, and iterations
+<img width="777" height="638" alt="Screenshot 2025-08-20 at 3 05 39 PM" src="https://github.com/user-attachments/assets/7fac1190-e7fc-4c88-aed7-03a0e0398be7" />
+<img width="736" height="650" alt="Screenshot 2025-08-20 at 3 06 47 PM" src="https://github.com/user-attachments/assets/15859d1d-ffb6-461b-a5d4-7318e561ed7e" />
 
 ## Prerequisites
 
