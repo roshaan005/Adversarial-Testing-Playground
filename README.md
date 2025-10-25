@@ -183,7 +183,7 @@ Adversarial-Testing-Playground/
 └── README.md
 ```
 
-## 🚀 Future Enhancements & Roadmap
+##  Future Enhancements & Roadmap
 
 ### Phase 1: Enhanced Model Support
 - **Additional Pre-trained Models**:
@@ -238,14 +238,14 @@ Adversarial-Testing-Playground/
 - **Research Paper Integration**: Link to relevant academic papers
 - **Community Features**: User submissions and leaderboards
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Backend**: Flask, PyTorch, TorchVision
 - **Frontend**: Next.js, React, TypeScript, Tailwind CSS
 - **Communication**: Axios for HTTP requests
 - **Machine Learning**: PyTorch ecosystem for model inference and attack generation
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -278,7 +278,7 @@ Adversarial-Testing-Playground/
 - **Parameter Tuning**: Start with smaller epsilon values
 - **Batch Processing**: Consider implementing batch processing for multiple images
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Here are some ways you can help:
 
@@ -298,20 +298,13 @@ We welcome contributions! Here are some ways you can help:
 - Use the provided npm scripts for development
 - Ensure both frontend and backend are running for full functionality
 
-## 📚 References & Resources
+##  References & Resources
 
 - [Adversarial Examples in the Physical World](https://arxiv.org/abs/1607.02533) - FGSM paper
 - [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083) - PGD paper
 - [PyTorch Adversarial Training](https://pytorch.org/tutorials/beginner/fgsm_tutorial.html) - Official tutorial
 - [CleverHans](https://github.com/cleverhans-lab/cleverhans) - Adversarial example library
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- PyTorch team for the deep learning framework
-- ImageNet for the pre-trained models
-- Research community for adversarial attack algorithms
-- React and Flask communities for the web frameworks
