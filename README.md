@@ -82,7 +82,7 @@ npm run dev:backend
 npm run dev:frontend
 ```
 
-## 🎯 Use Cases & Applications
+##  Use Cases & Applications
 
 ### Research & Academia
 - **Adversarial Machine Learning Research**: Study model vulnerabilities and defense mechanisms
@@ -101,7 +101,7 @@ npm run dev:frontend
 - **Defense Mechanism Development**: Validate adversarial training and other defenses
 - **Performance Testing**: Benchmark attack generation speed and efficiency
 
-## 📖 Usage
+## Usage
 
 1. **Upload an Image**: Click the upload area or drag and drop an image file
 2. **Configure Attack Parameters**:
@@ -144,7 +144,7 @@ Runs an adversarial attack on an uploaded image.
 }
 ```
 
-## 🏗️ Technical Architecture
+##  Technical Architecture
 
 ### System Overview
 The playground follows a client-server architecture where:
@@ -163,7 +163,7 @@ The playground follows a client-server architecture where:
 - **FGSM**: Calculates gradients of loss with respect to input, then adds perturbation in the direction of gradient sign
 - **PGD**: Iterative version of FGSM with projection to ensure perturbations stay within epsilon ball
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Adversarial-Testing-Playground/
